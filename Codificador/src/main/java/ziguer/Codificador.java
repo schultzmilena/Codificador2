@@ -1,3 +1,5 @@
+package ziguer;
+
 import java.time.LocalDate;
 
 public interface Codificador {
